@@ -67,7 +67,7 @@ login?
                   display: "flex",
                   justifyContent: "space-between"
                   }}>
-                    <Typography variant="h6">Live chat</Typography>
+                    <Typography variant="h6">catch-up</Typography>
                     <IconButton onClick={handleClick} color="inherit">
                     <AccountCircleIcon />
                     </IconButton>
